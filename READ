@@ -1,0 +1,5 @@
+Execution Steps:
+
+~/HumiditySensorStatistics$ sbt compile
+~/HumiditySensorStatistics$ sbt
+~/HumiditySensorStatistics$ run <CSV_fileDirectoryPath>
